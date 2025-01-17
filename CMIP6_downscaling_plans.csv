@@ -240,15 +240,15 @@ EUR-12,BCCR-UCAN,S. Sobolowski / O. Gokturk / J. Fernandez / J. Milovac,WRF451Q,
 EUR-12,BCCR-UCAN,S. Sobolowski / O. Gokturk / J. Fernandez / J. Milovac,WRF451Q,NorESM2-MM,r1i1p1f1,ssp370,planned,2024-10,#EURbalanced
 EUR-12,CESAM,D. Carvalho,WRF451Q,ERA5,,evaluation,running,2025-06,#RCMintvar
 EUR-12,CESAM,D. Carvalho,WRF451Q,MPI-ESM1-2-HR,r1i1p1f1,ssp585,planned,2023-12,#ManySSP
-EUR-12,CLMcom-Hereon,B. Geyer,COSMO-CLM,ERA5,,evaluation,planned,2024-12, #ManyGCM
+EUR-12,CLMcom-Hereon,B. Geyer,COSMO-CLM,ERA5,,evaluation,finished,2024-12, #ManyGCM
 EUR-12,CLMcom-LIST,M. Sulis,COSMO-CLM,MPI-ESM1-2-HR,r1i1p1f1,historical,planned,2025-03,#ManyGCM
 EUR-12,CLMcom-LIST,M. Sulis,COSMO-CLM,MPI-ESM1-2-HR,r1i1p1f1,ssp126,planned,2025-03,#ManyGCM
 EUR-12,CLMcom-LIST,M. Sulis,COSMO-CLM,MPI-ESM1-2-HR,r1i1p1f1,ssp370,planned,2025-03,#ManyGCM
-EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,EC-Earth3-Veg,r1i1p1f1,historical,planned,2025-03,#ManyGCM #Nukleus
-EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,EC-Earth3-Veg,r1i1p1f1,ssp126,planned,2025-03,#ManyGCM #Nukleus
-EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,EC-Earth3-Veg,r1i1p1f1,ssp370,planned,2025-03,#ManyGCM #Nukleus
-EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,MIROC6,r1i1p1f1,historical,planned,2025-03,#ManyGCM #Nukleus
-EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,MIROC6,r1i1p1f1,ssp370,planned,2025-03,#ManyGCM #Nukleus
+EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,EC-Earth3-Veg,r1i1p1f1,historical,finished,2025-01,#ManyGCM #Nukleus
+EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,EC-Earth3-Veg,r1i1p1f1,ssp126,running,2025-03,#ManyGCM #Nukleus
+EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,EC-Earth3-Veg,r1i1p1f1,ssp370,running,2025-03,#ManyGCM #Nukleus
+EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,MIROC6,r1i1p1f1,historical,finished,2025-01,#ManyGCM #Nukleus
+EUR-12,CLMcom-KIT,H. Feldmann,COSMO-CLM,MIROC6,r1i1p1f1,ssp370,running,2025-03,#ManyGCM #Nukleus
 EUR-12,CLMcom-CMCC,M. Raffa / M. Adinolfi / A. Campanale,COSMO-CLM,CMCC-CM2-SR5,r1i1p1f1,historical,planned,2024-12, #ManyGCM
 EUR-12,CLMcom-CMCC,M. Raffa / M. Adinolfi / A. Campanale,COSMO-CLM,CMCC-CM2-SR5,r1i1p1f1,ssp126,planned,2024-12, #ManyGCM
 EUR-12,CLMcom-CMCC,M. Raffa / M. Adinolfi / A. Campanale,COSMO-CLM,CMCC-CM2-SR5,r1i1p1f1,ssp370,planned,2024-12, #ManyGCM
